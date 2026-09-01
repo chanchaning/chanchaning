@@ -1,6 +1,6 @@
 # 🚀 끊임없이 성장하는 개발자, 윤여찬입니다!
 
-https://2026yycportfolio.vercel.app/
+https://2026-yyc-portfolio.vercel.app
 
 안녕하세요! 저는 **발전하기 위해 끝없이 달리는 개발자 윤여찬**입니다.  
 2021년 JavaScript 개발자로 첫발을 내디뎠으며, 다양한 프로젝트 경험을 통해 개발자로서의 성장을 지속하고 있습니다.  
